@@ -4,4 +4,4 @@ exclude:
 - /config/.*
 - /resources/lang/.*
 - /resources/js/bootstrap.js
-component_depth: 3
+component_depth: 2
