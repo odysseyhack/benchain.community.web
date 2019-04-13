@@ -1,0 +1,6 @@
+exclude:
+#Minified and compiled
+- /public/.*
+- /config/.*
+- /resources/lang/.*
+- /resources/js/bootstrap.js
